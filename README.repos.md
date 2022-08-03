@@ -1,0 +1,1 @@
+The purpose of this repositiory is to show off all fo the projects I have been working on in my time with the MIT xPro program.
